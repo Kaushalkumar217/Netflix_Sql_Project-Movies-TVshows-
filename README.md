@@ -2,7 +2,7 @@
 
 Netflix SQL Project analyzes Netflix Movies &amp; TV Shows data using MySQL. It includes data cleaning, filtering, aggregations, CTEs, window functions, and business insights such as content trends, top countries, ratings, genres, directors, and yearly releases. Built to strengthen SQL and data analysis skills.
 
-[Netflix Logo](https://github.com/Kaushalkumar217/Netflix_Sql_Project-Movies-TVshows-/blob/main/ChatGPT%20Image%20Jul%201%2C%202026%2C%2006_35_34%20AM.pdf)
+![Netflix Logo](https://raw.githubusercontent.com/Kaushalkumar217/Netflix_Sql_Project/main/images/netflix-logo.png)
 
 
 ## 📌 Project Overview
